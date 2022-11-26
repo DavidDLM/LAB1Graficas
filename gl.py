@@ -1,6 +1,6 @@
 # Proyecto 1
 # Mario de Leon 19019
-# Graficos por computadora basado en lo escrito por Ing. Carlos Alonso / Ing. Dennis Aldana
+# Graficos por computadora basado en lo escrito por Ing. Dennis Aldana / Ing. Carlos Alonso
 import conversions as conv
 import random
 import struct
